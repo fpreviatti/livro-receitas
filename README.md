@@ -2,4 +2,5 @@
 
 Livro de receitas 
 
-- ## Strogonoff de carne
+- Strogonoff de carne
+- Pizza
